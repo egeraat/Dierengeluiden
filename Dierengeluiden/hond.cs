@@ -2,8 +2,8 @@
 {
     public void ShowInfo()
     {
-        Console.Write("Er zijn ongeveer 300 verschillende hondenrassen");
-        Console.WriteLine("Een hond kan tot wel 20 kilometer ver ruiken");
+        Console.Write("Er zijn ongeveer 300 verschillende hondenrassen\n");
+        Console.WriteLine("Een hond kan tot wel 20 kilometer ver ruiken\n\n");
     }
 
     public void MakeSound()
