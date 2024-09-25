@@ -9,6 +9,6 @@
 
     public void MakeSound()
     {
-        Console.WriteLine("katten gemauw");
+        Console.WriteLine("kippen geluid");
     }
 }
